@@ -2,7 +2,7 @@
 
 A library for converting DraftJS Editor content to plain HTML.
 
-This is draft to HTML library I wrote for one of my projects. I am open-sourcing it so that others can also be benefitted from my work.
+Forked from jpuri to add better image rendering support.
 
 ## Installation
 
