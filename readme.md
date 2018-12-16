@@ -6,7 +6,7 @@ Forked from jpuri to add better image rendering support.
 
 ## Installation
 
-`npm install draftjs-to-html`
+`npm install unaty:draftjs-to-html`
 
 ## Usage
 
